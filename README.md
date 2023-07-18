@@ -1,1 +1,1 @@
-# IEEE_DL-ARP
+Source code for the DL-ARP deep learning model that can detect and log ARP spoofing attacks based on various parameters inherent to the network traffic using a hybrid CNN-LSTM architecture to capture both spatial and temporal characteristics of the data in better depth, outperforming other previously existing algorithms for the same purpose both in speed and accuracy and accepted for publication by the Institute of Electrical and Electronics Engineers (IEEE) in recognition of the contribution.
